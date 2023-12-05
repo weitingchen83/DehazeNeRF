@@ -64,4 +64,4 @@ If you find this work useful, please consider citing us!
 
 
 ## Acknowledgements
-We thank the authors of [NeuS](https://lingjie0206.github.io/papers/NeuS/) from which our repo is based off of.
+We thank the authors of [NeuS](https://github.com/Totoro97/NeuS) from which our repo is based off of.
