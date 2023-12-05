@@ -1,8 +1,8 @@
 # DehazeNeRF
 
 Official repository for DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction
-using Neural Radiance Fields
-<\br>
+using Neural Radiance Fields\
+
 Wei-Ting Chen*, Wang Yifan*, Sy-Yen Kuo, Gordon Wetzstein\
 (* indicates equal contribution.)\
 3DV 2024
