@@ -11,7 +11,7 @@ Wei-Ting Chen*, Wang Yifan*, Sy-Yen Kuo, Gordon Wetzstein\
 
 [![arXiv](https://img.shields.io/badge/arXiv-2303.11364-b31b1b.svg)](https://arxiv.org/pdf/2303.11364.pdf)
 
-![image](fig/fig2.png)
+![image](fig/fig2.pdf)
 
 
 ## Updates
