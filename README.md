@@ -7,7 +7,7 @@ Wei-Ting Chen*, Wang Yifan*, Sy-Yen Kuo, Gordon Wetzstein\
 (* indicates equal contribution.)\
 3DV 2024
 
-[Project Page]() | [Paper](https://arxiv.org/pdf/2303.11364.pdf) | [Video]()
+[Project Page]() | [Paper](https://arxiv.org/pdf/2303.11364.pdf) | [Video]() | [Dataset](https://drive.google.com/drive/folders/10EhIgP4L7XkyAsFXwFMGdzPMGm-J7rLm?usp=drive_link)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2303.11364-b31b1b.svg)](https://arxiv.org/pdf/2303.11364.pdf)
 
